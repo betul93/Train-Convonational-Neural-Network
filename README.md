@@ -1,21 +1,25 @@
 # Train-Convonational-Neural-Network
 
 
+
 # Training Your DataSet with CNN
 This project is a CNN (Convolutional Neural Network) model designed for emotion classification. By training the model, it tries to determine whether people are happy or unhappy from the expressions on their faces.
 
 
 ## Make an Algorithm
 
- - Image DataSet Creation
+🟩 Image DataSet Creation
 -Three separate files were created: Training, Test, Verification
 
 It consists of 20 photographs, including 10 happy and 10 unhappy photographs.Inside each file are the same images.
 
-- CNN Model Creation
-- Model Training
-- Model Evaluation
-- Forecasting
+🟩 CNN Model Creation
+
+🟩 Model Training
+
+🟩 Model Evaluation
+
+🟩 Forecasting
 
 
 ## Libraries
@@ -36,6 +40,14 @@ It consists of 20 photographs, including 10 happy and 10 unhappy photographs.Ins
 | **keras.layers:** | Different layer types (convolutional, pooling, fully connected, etc.)|
 | **Optimisation Libraries:** | |
 | **keras.optimisers** | Optimisation algorithms (RMSprop, Adam, etc.)|
+
+
+
+
+
+
+
+
 
 
 
