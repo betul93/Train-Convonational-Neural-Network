@@ -131,8 +131,10 @@ For each image **i** :
 
 
 
+![1 png](https://github.com/betul93/Train-Convonational-Neural-Network/assets/59344550/ab50c8e7-5c73-4ffa-a98f-215cbe4432bd)
 
 
+![2](https://github.com/betul93/Train-Convonational-Neural-Network/assets/59344550/632b0ee9-e0b7-4972-ad0c-b25e932263f1)
 
 
 
